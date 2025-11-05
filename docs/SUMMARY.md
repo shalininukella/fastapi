@@ -1,4 +1,6 @@
 # Table of contents
 
-* [🧩 FastAPI Syntax & Structure — The Big Picture](README.md)
+* [✨ FastAPI](README.md)
+* [🧩 FastAPI Syntax & Structure — The Big Picture](readme-1.md)
 * [🔁 FastAPI Request–Response Lifecycle (Visual Flow)](fastapi-request-response-lifecycle-visual-flow.md)
+* [Page 1](page-1.md)
